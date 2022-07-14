@@ -1,4 +1,4 @@
-# CapstoneProject: Social_Media_Text_Classifier
+# Capstone_Project: Social_Media_Text_Classifier
 
 **A project on “Social Media Text Analysis”:<br>**
 <br>
