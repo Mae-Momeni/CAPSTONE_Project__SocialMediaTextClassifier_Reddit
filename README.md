@@ -1,5 +1,6 @@
 # Capstone_Project: Social_Media_Text_Classifier (Reddit)
-This project is a social media text classifier. Indeed, it is a binary NLP classifier and the goal is to analyze social media texts and predict the category of a given social media post. The summary of the project is as follows:<br>
+**This project is a social media text classifier. Indeed, it is a binary NLP classifier and the goal is to analyze social media texts and predict the category of a given social media post.** <br>
+The summary of the project is as follows:<br>
 <br>
 •	NLP text classifier analyzed social media posts from two Reddit communities: iPhone versus Samsung Galaxy<br>
 •	The goals of the project are text analysis, language pattern extraction, and predicting the category of a given social media post (iPhone vs Galaxy)<br>
