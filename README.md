@@ -4,6 +4,7 @@
 One of the methodologies to efficiently index data for future usage, is tagging them before saving them in the dataset. For example, on Reddit, posts will be tagged by the subreddit. Assuming a scenario that the Reddit server would not be able to process data due to any reason (say hardware limitation or unexpected behavior after an update), we need a classifier to process data and tag each post. The goal of this project is to provide the possibility of tagging Reddit posts using NLP and machine learning. For the use case, posts from two subreddits are extracted: Samsung galaxy and iPhone. Therefore, we intend to make a binary classifier in order to tag each Reddit post.<br>
 <br>
 The summary of the project is as follows:<br>
+
 •	NLP text classifier analyzed social media posts from two Reddit communities: iPhone versus Samsung Galaxy<br>
 •	The goals of the project are text analysis, language pattern extraction, and predicting the category of a given social media post (iPhone vs Galaxy)<br>
 •	This project includes Reddit API web scraping, data wrangling, explanatory data analysis, and machine learning<br>
